@@ -3,6 +3,8 @@ name: "آموزش HTML"
 title: "learn html"
 cover: "../assets/download.jpg"
 created-at: "2020-08-23"
+chapter: 0
+page: 0
 library: 
     - "web"
     - "frontend"
