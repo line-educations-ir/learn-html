@@ -1,7 +1,7 @@
 ---
 name: "آموزش HTML"
 title: "learn html"
-cover: "../assets/download.jpg"
+cover: "../assets/hello-world.png"
 created-at: "2020-08-23"
 chapter: 0
 page: 0
