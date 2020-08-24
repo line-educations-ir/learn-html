@@ -1,5 +1,6 @@
 ---
 title: "headings"
+name: "عنوان ها"
 created-at: "2020-08-23"
 chapter: 1
 page: 1

@@ -1,5 +1,6 @@
 ---
 title: "background color"
+name: "رنگ پس‌زمینه"
 created-at: "2020-08-23"
 chapter: 2
 page: 1

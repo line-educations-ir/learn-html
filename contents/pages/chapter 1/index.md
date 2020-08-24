@@ -1,5 +1,6 @@
 ---
 title: "basics"
+name: "مقدمات HTML"
 created-at: "2020-08-23"
 chapter: 1
 page: 0

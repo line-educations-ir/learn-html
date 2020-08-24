@@ -1,5 +1,6 @@
 ---
 title: "basic styling"
+name: "مقدمات طراحی ظاهر"
 created-at: "2020-08-23"
 chapter: 2
 page: 0
